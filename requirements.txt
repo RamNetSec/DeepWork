@@ -1,0 +1,7 @@
+torch
+torchvision
+mediapipe
+pillow
+numpy
+tqdm
+tensorboard
